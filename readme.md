@@ -1,4 +1,4 @@
-# Microsoft Azure Fundamentals
+# Microsoft AZ-900 certification: Azure Fundamentals
 
 This repository serves as a summary of key concepts and topics I've studied in preparation for the Microsoft AZ-900 exam. The goal is to document and reinforce my understanding of essential Azure concepts in a concise and accessible format.
 
