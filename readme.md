@@ -3,9 +3,9 @@
 This repository serves as a summary of key concepts and topics I've studied in preparation for the Microsoft AZ-900 exam. The goal is to document and reinforce my understanding of essential Azure concepts in a concise and accessible format.
 
 1. Describe cloud concepts
-    1. [Describe cloud computing](./describe-cloud-concepts/1-describe-cloud-computing.md)
-    1. [Describe the benefits of using cloud services](./describe-cloud-concepts/2-describe-the-benefits-of-using-cloud-services.md)
-    1. [Describe cloud service types](./describe-cloud-concepts/3-describe-cloud-services-types.md)
+    1. [Describe cloud computing](./1-describe-cloud-concepts/1-describe-cloud-computing.md)
+    1. [Describe the benefits of using cloud services](./1-describe-cloud-concepts/2-describe-the-benefits-of-using-cloud-services.md)
+    1. [Describe cloud service types](./1-describe-cloud-concepts/3-describe-cloud-services-types.md)
 1. Describe Azure architecture and services
     1. [Describe the core architectural components of Azure](./2-describe-azure-architecture-and-services/1-describe-the-core-architectural-components-of-azure.md)
     1. [Describe Azure compute and networking services](./2-describe-azure-architecture-and-services/2-describe-azure-compute-and-networking-services.md)
